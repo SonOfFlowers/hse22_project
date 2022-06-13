@@ -44,9 +44,11 @@ Mesorhizobium terrae
 
 ![image](https://user-images.githubusercontent.com/93160309/173418660-99ce8e86-ebbc-468e-8206-f6379f977492.png)
 
+## Множественное белковое выравнивание
 
 <summary>Выравнивание для кластера №1</summary>
   
+  </details>
   ```
   >WP_171892287.1_Mesorhizobium_erdmanii
 MMMTATKIRPAGLVAIDREMARQQADARASFENNAAKAQEVASSIRKTGRLLLLGMGGSHAVGRAVEPLYRALAIDALAM
