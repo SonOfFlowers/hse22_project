@@ -3,9 +3,13 @@
 ## Выбранные организмы:
 
 Mesorhizobium australicum WSM2073
+
 Mesorhizobium erdmanii
+
 Mesorhizobium japonicum R7A
+
 Mesorhizobium opportunistum WSM2075
+
 Mesorhizobium terrae
 
 ## Таблица
