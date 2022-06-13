@@ -133,205 +133,205 @@ Mesorhizobium terrae
         <tr>
             <td rowspan=5>Cluster #3</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011032293.1</td>
+            <td rowspan=1>WP_013895989.1</td>
             <td rowspan=1>LSm family protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>883</td>
+            <td rowspan=1>883, 1202, 28780, 2997</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_011032293.1</td>
+            <td rowspan=1>WP_015318243.1</td>
             <td rowspan=1>LSm family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2943</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048121098.1</td>
+            <td rowspan=1>WP_024926298.1</td>
             <td rowspan=1>LSm family protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>2943</td>
+            <td rowspan=1>3428, 13713, 883, 3403, 6565</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_011023130.1</td>
+            <td rowspan=1>WP_032929891.1</td>
             <td rowspan=1>LSm family protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>2943</td>
+            <td rowspan=1>1202, 883, 28780</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_011032293.1</td>
+            <td rowspan=1>WP_064991622.1</td>
             <td rowspan=1>LSm family protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>883</td>
+            <td rowspan=1>1202, 883, 138924, 1032</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td rowspan=5>Cluster #4</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011033697.1</td>
+            <td rowspan=1>WP_013896024.1</td>
             <td rowspan=1>30S ribosomal protein S9</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>731, 783</td>
+            <td rowspan=1>1323, 13713, 8485, 2752</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048167854.1</td>
+            <td rowspan=1>WP_015318274.1</td>
             <td rowspan=1>30S ribosomal protein S9</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>731</td>
+            <td rowspan=1>8485, 2752</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048117809.1</td>
+            <td rowspan=1>WP_024926268.1</td>
             <td rowspan=1>30S ribosomal protein S9</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>731</td>
+            <td rowspan=1>883, 13713, 2883, 68804, 783</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048124440.1</td>
+            <td rowspan=1>WP_010915564.1</td>
             <td rowspan=1>30S ribosomal protein S9</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>731</td>
+            <td rowspan=1>13713, 18247, 2752</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_054297845.1</td>
+            <td rowspan=1>WP_027051492.1</td>
             <td rowspan=1>30S ribosomal protein S9</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>731</td>
+            <td rowspan=1>13713, 8485</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td rowspan=5>Cluster #5</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011034015.1</td>
+            <td rowspan=1>WP_013892715.1</td>
             <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
-            <td rowspan=1>Нет</td>
-            <td rowspan=1>-</td>
+            <td rowspan=1>Промотер</td>
+            <td rowspan=1>698, 883</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048167159.1</td>
+            <td rowspan=1>WP_015315445.1</td>
             <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>959</td>
+            <td rowspan=1>698, 883</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048118415.1</td>
+            <td rowspan=1>WP_024923942.1</td>
             <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>4576</td>
+            <td rowspan=1>698, 883, 3428</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048127553.1</td>
+            <td rowspan=1>WP_032931921.1</td>
             <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>959</td>
+            <td rowspan=1>698, 883</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_054297609.1</td>
+            <td rowspan=1>WP_064990766.1</td>
             <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>1122</td>
+            <td rowspan=1>883</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td rowspan=5>Cluster #6</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011032199.1</td>
+            <td rowspan=1>WP_010913361.1</td>
             <td rowspan=1>riboflavin synthase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>883</td>
+            <td rowspan=1>980, 1737, 1430, 2492,</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048166057.1</td>
+            <td rowspan=1>WP_015319324.1</td>
             <td rowspan=1>riboflavin synthase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>883</td>
+            <td rowspan=1>980, 2492, 883, 2962, 38833</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048119173.1</td>
-            <td rowspan=1>riboflavin synthase</td>
-            <td rowspan=1>Нет</td>
-            <td rowspan=1>-</td>
-        </tr>
-        <tr>
-            <td rowspan=1>WP_048126706.1</td>
+            <td rowspan=1>WP_024922337.1</td>
             <td rowspan=1>riboflavin synthase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>883</td>
+            <td rowspan=1>980, 883</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_054297806.1</td>
+            <td rowspan=1>WP_010913361.1</td>
             <td rowspan=1>riboflavin synthase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>883</td>
+            <td rowspan=1>980, 1737, 2962, 2492,</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_010913361.1</td>
+            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>980, 1737, 2492,</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td rowspan=5>Cluster #7</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011032516.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
-            <td rowspan=1>Нет</td>
-            <td rowspan=1>-</td>
-        </tr>
-        <tr>
-            <td rowspan=1>WP_231588106.1</td>
+            <td rowspan=1>WP_013892023.1</td>
             <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>2659</td>
+            <td rowspan=1>766, 13713, 833, 883, 580, 3428</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048117996.1</td>
+            <td rowspan=1>WP_015314713.1</td>
             <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
-            <td rowspan=1>Тело гена</td>
-            <td rowspan=1>2779</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>505, 13713, 883, 27872, 580</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048127129.1</td>
+            <td rowspan=1>WP_024924340.1</td>
             <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
-            <td rowspan=1>Тело гена</td>
-            <td rowspan=1>8485</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>904, 883, 1201, 546, 904, 13713, 38833</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_054298565.1</td>
+            <td rowspan=1>WP_032932423.1</td>
             <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
-            <td rowspan=1>Нет</td>
-            <td rowspan=1>-</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>3061, 8323, 883, 783, 577, 980,</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_244277697.1</td>
+            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>13713, 883, 980, 13713, 3333, 1726, 4615</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td rowspan=5>Cluster #8</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011034141.1</td>
+            <td rowspan=1>WP_013892417.1</td>
             <td rowspan=1>oligosaccharyl transferase, archaeosortase A
             system-associated</td>
-            <td rowspan=1>Тело гена</td>
-            <td rowspan=1>731</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>766, 883, 2752, 4545, 1994</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048168165.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
-            <td rowspan=1>Тело гена</td>
-            <td rowspan=1>752, 731</td>
-        </tr>
-        <tr>
-            <td rowspan=1>WP_048124226.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
-            <td rowspan=1>Тело гена</td>
-            <td rowspan=1>731</td>
-        </tr>
-        <tr>
-            <td rowspan=1>WP_232308693.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
-            <td rowspan=1>Тело гена</td>
-            <td rowspan=1>731, 752</td>
-        </tr>
-        <tr>
-            <td rowspan=1>WP_054298578.1</td>
+            <td rowspan=1>WP_015315158.1</td>
             <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>731</td>
+            <td rowspan=1>2752, 883, 50885, 1228, 2300, 2962</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_024924526.1</td>
+            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>28780, 8485, 883, 3428, 908, 49376</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_032932139.1</td>
+            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>766, 883, 2752, 980, 1264</td>
+        </tr>
+        <tr>
+            <td rowspan=1>WP_064991139.1</td>
+            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>Промотор</td>
+            <td rowspan=1>883, 980, 2779, 4545, 3428</td>
         </tr>
     </tbody>
 </table>
