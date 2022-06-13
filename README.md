@@ -582,5 +582,22 @@ GIARLAHWHVEADIAAGRLVPLLEAFNPGDLEPTHAVYVGQGKHLPARVRAFLDFLAETVR-L
 </table>
 
 
+## Визуализация расположения участков Z-DNA
+
+![image](https://user-images.githubusercontent.com/93160309/173459216-16ede920-a592-4223-bd9b-29cd72bb170a.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459255-20571a0d-5c15-476f-9663-c64bb63acdda.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459295-31b76bcf-f918-40fd-af1a-b8712d743acf.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459349-8609e497-d025-4518-aad6-ddeb52aa5aef.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459376-1b377fe8-a81d-4438-a60a-37098870df08.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459407-721cf4d0-2488-434d-ab17-d664c8914d3a.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459510-9717019c-8de4-4f3c-acf3-b64002d01fc3.png)
+
+![image](https://user-images.githubusercontent.com/93160309/173459544-d6bc06f6-813f-4bbe-be6a-0cbc89d60024.png)
 
 
