@@ -48,8 +48,7 @@ Mesorhizobium terrae
 
 </details>
 <summary>Выравнивание для кластера №1</summary>
-  
-  
+    
   ```
   >WP_171892287.1_Mesorhizobium_erdmanii
 MMMTATKIRPAGLVAIDREMARQQADARASFENNAAKAQEVASSIRKTGRLLLLGMGGSHAVGRAVEPLYRALAIDALAM
