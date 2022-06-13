@@ -81,7 +81,7 @@ Mesorhizobium terrae
             <td rowspan=1>2945, 2962, 739, 3428</td>
         </tr>
         <tr>
-            <td rowspan=1WP_032931927.1	</td>
+            <td rowspan=1>WP_032931927.1	</td>
             <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
             formyltransferase/IMP cyclohydrolase</td>
             <td rowspan=1>Промотор</td>
