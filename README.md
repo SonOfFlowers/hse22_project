@@ -61,36 +61,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #1</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_041164027.1</td>
-            <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>SIS domain-containing protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980,883,3428, 650, 10894</td>
         </tr>
         <tr>
             <td rowspan=1>WP_041163308.1</td>
-            <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>SIS domain-containing protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>908, 1244, 883, 2752, 2779</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024923536.1</td>
-            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>SIS domain-containing protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2945, 2962, 739, 3428</td>
         </tr>
         <tr>
             <td rowspan=1>WP_032931927.1	</td>
-            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>SIS domain-containing protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>3039, 883, 980, 2779</td>
         </tr>
         <tr>
             <td rowspan=1>WP_171892287.1</td>
-            <td rowspan=1>bifunctional phosphoribosylaminoimidazolecarboxamide
-            formyltransferase/IMP cyclohydrolase</td>
+            <td rowspan=1>SIS domain-containing protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>650, 13713, 8485, 883</td>
         </tr>
@@ -100,31 +95,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #2</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_013892714.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>patatin-like phospholipase family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883, 2962</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015315444.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>patatin-like phospholipase family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2752, 883, </td>
         </tr>
         <tr>
             <td rowspan=1>WP_024923943.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>patatin-like phospholipase family protein </td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2962, 883, 980, 2659, 650</td>
         </tr>
         <tr>
             <td rowspan=1>WP_032931923.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>patatin-like phospholipase family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883, 2962, 833</td>
         </tr>
         <tr>
             <td rowspan=1>WP_064990767.1</td>
-            <td rowspan=1>PRC-barrel domain-containing protein</td>
+            <td rowspan=1>patatin-like phospholipase family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2962, 883</td>
         </tr>
@@ -134,31 +129,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #3</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_013895989.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>transcription antitermination factor NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883, 1202, 28780, 2997</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015318243.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>transcription antitermination factor NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2943</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024926298.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>transcription antitermination factor NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>3428, 13713, 883, 3403, 6565</td>
         </tr>
         <tr>
             <td rowspan=1>WP_032929891.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>transcription antitermination factor NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>1202, 883, 28780</td>
         </tr>
         <tr>
             <td rowspan=1>WP_064991622.1</td>
-            <td rowspan=1>LSm family protein</td>
+            <td rowspan=1>transcription antitermination factor NusB</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>1202, 883, 138924, 1032</td>
         </tr>
@@ -168,31 +163,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #4</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_013896024.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>RDD family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>1323, 13713, 8485, 2752</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015318274.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>RDD family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>8485, 2752</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024926268.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>RDD family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883, 13713, 2883, 68804, 783</td>
         </tr>
         <tr>
             <td rowspan=1>WP_010915564.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>RDD family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>13713, 18247, 2752</td>
         </tr>
         <tr>
             <td rowspan=1>WP_027051492.1</td>
-            <td rowspan=1>30S ribosomal protein S9</td>
+            <td rowspan=1>RDD family protein</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>13713, 8485</td>
         </tr>
@@ -202,31 +197,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #5</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_013892715.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>acetoacetate decarboxylase</td>
             <td rowspan=1>Промотер</td>
             <td rowspan=1>698, 883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015315445.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>acetoacetate decarboxylase</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>698, 883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024923942.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>acetoacetate decarboxylase</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>698, 883, 3428</td>
         </tr>
         <tr>
             <td rowspan=1>WP_032931921.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>acetoacetate decarboxylase</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>698, 883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_064990766.1</td>
-            <td rowspan=1>orotidine-5'-phosphate decarboxylase</td>
+            <td rowspan=1>acetoacetate decarboxylase</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883</td>
         </tr>
@@ -236,31 +231,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #6</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_010913361.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>MarR family winged helix-turn-helix transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 1737, 1430, 2492,</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015319324.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>MarR family winged helix-turn-helix transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 2492, 883, 2962, 38833</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024922337.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>MarR family winged helix-turn-helix transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 883</td>
         </tr>
         <tr>
             <td rowspan=1>WP_010913361.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>MarR family winged helix-turn-helix transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 1737, 2962, 2492,</td>
         </tr>
         <tr>
             <td rowspan=1>WP_010913361.1</td>
-            <td rowspan=1>riboflavin synthase</td>
+            <td rowspan=1>MarR family winged helix-turn-helix transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>980, 1737, 2492,</td>
         </tr>
@@ -270,31 +265,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #7</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_013892023.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>tRNA epoxyqueuosine(34) reductase QueG</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>766, 13713, 833, 883, 580, 3428</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015314713.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>tRNA epoxyqueuosine(34) reductase QueG</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>505, 13713, 883, 27872, 580</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024924340.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>tRNA epoxyqueuosine(34) reductase QueG</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>904, 883, 1201, 546, 904, 13713, 38833</td>
         </tr>
         <tr>
             <td rowspan=1>WP_032932423.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>tRNA epoxyqueuosine(34) reductase QueG</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>3061, 8323, 883, 783, 577, 980,</td>
         </tr>
         <tr>
             <td rowspan=1>WP_244277697.1</td>
-            <td rowspan=1>CRISPR-associated CARF protein Csa3</td>
+            <td rowspan=1>tRNA epoxyqueuosine(34) reductase QueG</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>13713, 883, 980, 13713, 3333, 1726, 4615</td>
         </tr>
@@ -304,32 +299,31 @@ Mesorhizobium terrae
             <td rowspan=5>Cluster #8</td>
             <td rowspan=5>5</td>
             <td rowspan=1>WP_013892417.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A
-            system-associated</td>
+            <td rowspan=1>LysR family transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>766, 883, 2752, 4545, 1994</td>
         </tr>
         <tr>
             <td rowspan=1>WP_015315158.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>LysR family transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>2752, 883, 50885, 1228, 2300, 2962</td>
         </tr>
         <tr>
             <td rowspan=1>WP_024924526.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>LysR family transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>28780, 8485, 883, 3428, 908, 49376</td>
         </tr>
         <tr>
             <td rowspan=1>WP_032932139.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>LysR family transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>766, 883, 2752, 980, 1264</td>
         </tr>
         <tr>
             <td rowspan=1>WP_064991139.1</td>
-            <td rowspan=1>oligosaccharyl transferase, archaeosortase A system-associated</td>
+            <td rowspan=1>LysR family transcriptional regulator</td>
             <td rowspan=1>Промотор</td>
             <td rowspan=1>883, 980, 2779, 4545, 3428</td>
         </tr>
