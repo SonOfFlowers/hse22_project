@@ -1,5 +1,7 @@
 # hse22_project
 
+ссылка на коллаб: https://colab.research.google.com/drive/1vdOv405wMWSWo9iz5orYwwJxx6O1FLsw#scrollTo=KaP29I4g7Lih
+
 ## Выбранные организмы:
 
 Mesorhizobium australicum WSM2073
