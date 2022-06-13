@@ -46,7 +46,7 @@ Mesorhizobium terrae
 
 ## Множественное белковое выравнивание
 
-</details>
+<details>
 <summary>Выравнивание для кластера №1</summary>
     
   ```
