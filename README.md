@@ -60,18 +60,18 @@ Mesorhizobium terrae
         <tr>
             <td rowspan=5>Cluster #1</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011032848.1</td>
+            <td rowspan=1>WP_041164027.1</td>
             <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
             formyltransferase/IMP cyclohydrolase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>1201</td>
+            <td rowspan=1>980,883,3428, 650, 10894</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048167316.1</td>
+            <td rowspan=1>WP_041163308.1</td>
             <td rowspan=1>Bifunctional phosphoribosylaminoimidazolecarboxamide
             formyltransferase/IMP cyclohydrolase</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>2962</td>
+            <td rowspan=1>908, 1244, 883, 2752, 2779</td>
         </tr>
         <tr>
             <td rowspan=1>WP_048122363.1</td>
