@@ -99,34 +99,34 @@ Mesorhizobium terrae
         <tr>
             <td rowspan=5>Cluster #2</td>
             <td rowspan=5>5</td>
-            <td rowspan=1>WP_011033897.1</td>
+            <td rowspan=1>WP_013892714.1</td>
             <td rowspan=1>PRC-barrel domain-containing protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>908</td>
+            <td rowspan=1>883, 2962</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048167122.1</td>
+            <td rowspan=1>WP_015315444.1</td>
             <td rowspan=1>PRC-barrel domain-containing protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>908</td>
+            <td rowspan=1>2752, 883, </td>
         </tr>
         <tr>
-            <td rowspan=1>WP_011306735.1</td>
+            <td rowspan=1>WP_024923943.1</td>
             <td rowspan=1>PRC-barrel domain-containing protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>908</td>
+            <td rowspan=1>2962, 883, 980, 2659, 650</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_048127780.1</td>
+            <td rowspan=1>WP_032931923.1</td>
             <td rowspan=1>PRC-barrel domain-containing protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>908</td>
+            <td rowspan=1>883, 2962, 833</td>
         </tr>
         <tr>
-            <td rowspan=1>WP_054300002.1</td>
+            <td rowspan=1>WP_064990767.1</td>
             <td rowspan=1>PRC-barrel domain-containing protein</td>
             <td rowspan=1>Промотор</td>
-            <td rowspan=1>908</td>
+            <td rowspan=1>2962, 883</td>
         </tr>
     </tbody>
     <tbody>
